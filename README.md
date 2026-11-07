@@ -59,3 +59,7 @@ This project demonstrates the use of Excel, SQL, and Power BI to analyze custome
 
 **Project Type:** Data Analytics  
 **Tools:** Excel | SQL | Power BI
+
+## Power BI Dashboard Preview
+
+![Customer Churn Power BI Dashboard](powerbi_dashboard.png)

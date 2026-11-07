@@ -31,10 +31,10 @@ This project analyzes customer churn in a telecommunications company using Excel
 
 ## Dashboard Analysis
 The Power BI dashboard presents:
-- Customer distribution by tenure.
-- Monthly charges analysis.
-- Churn analysis by contract type.
-- Churn analysis by payment method.
+- Customer churn by contract type.
+- Customer churn by tenure group.
+- Customer churn by payment method.
+- Customer churn by internet service.
 - Key customer and churn KPIs.
 
 ## Key Finding

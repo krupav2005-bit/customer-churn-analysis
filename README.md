@@ -49,10 +49,9 @@ The overall customer churn rate is **26.54%**, meaning approximately one in four
 
 ## Project Files
 This repository includes:
-- Excel workbook (`.xlsx`)
+- Excel workbook (`.xlsx`) — includes the original dataset, analysis worksheet, and Excel dashboard.
 - SQL queries (`.sql`)
 - Power BI dashboard (`.pbix`)
-- Original dataset (`.csv`)
 - Detailed project report (`.docx`)
 
 ## Conclusion
